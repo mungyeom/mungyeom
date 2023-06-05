@@ -2,6 +2,8 @@
 <div align="center">
 	
 🐶**About me**🐶
+	
+	
 Hi 👋 I am MK Kim. UCL and AICORE graduate, looking for employment in the Data Analysis sector 
 
 🧑🏻‍💻**Tech Stacks**🧑🏻‍💻
